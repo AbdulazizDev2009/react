@@ -1,0 +1,23 @@
+/* nav {
+  display: flex;
+  align-items: center;
+  background-color: aqua;
+  gap: 15px;
+  padding: 10px;
+  box-shadow: 0 0 10px rgba(212, 35, 35, 0.8);
+} */
+
+
+nav{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 20px 40px;
+  background-color: royalblue;
+  gap: 20px ;
+}
+.nav-link{
+  font-size: 25px;
+  color: white;
+  text-decoration: none;
+}

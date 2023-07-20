@@ -1,0 +1,32 @@
+.login {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: wheat;
+  gap: 10px;
+  padding-top: 20px;
+  margin-top: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+}
+.login input {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+  box-shadow: 0 0 10px rgb(220, 243, 11);
+}
+.login button {
+  padding: 10px;
+  box-shadow: 0 0 10px rgba(9, 6, 165, 0.973);
+}
+.createTasksForm {
+  padding-top: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: wheat;
+  gap: 10px;
+}
+.link{
+  color:blue;
+}
